@@ -11,3 +11,4 @@ The project involves processing a set of graph data files, named GraphR1-2024.tx
 - Construct a graph data structure in Python
 - Create DIMACS SAT instances from the graphs
 - Use an SAT solver to calculate the chromatic number, clique number, and independence number
+- Check if the graph admits an acyclic 2-colouring and acyclic 3-colouring
