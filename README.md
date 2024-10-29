@@ -8,6 +8,6 @@ Given an undirected graph, a graph coloring problem is to find an assignment of 
 
 The project involves processing a set of graph data files, named GraphR1-2024.txt to GraphR5-2024.txt. Each file specifies a graph by listing the vertices of each edge, separated by a space, on each line. The goals of this project are to:
 
-- Construct a graph data structure in Python.
-- Create DIMACS SAT instances from the graphs and 
-- Use an SAT solver to calculate the chromatic number, clique number, and independence number.
+- Construct a graph data structure in Python
+- Create DIMACS SAT instances from the graphs
+- Use an SAT solver to calculate the chromatic number, clique number, and independence number
